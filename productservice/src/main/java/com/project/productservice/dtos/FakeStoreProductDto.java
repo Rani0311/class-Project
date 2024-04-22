@@ -11,7 +11,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @NoArgsConstructor
 public class FakeStoreProductDto {
-    private long id;
+    private Long id;
     private  String title;
     private  double price;
     private Category category;
