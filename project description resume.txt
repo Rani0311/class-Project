@@ -1,0 +1,22 @@
+E-commerce Project
+
+Description:
+
+Designed and developed a full-stack E-commerce platform utilizing Java and Spring Boot framework to facilitate seamless online shopping experiences. Implemented robust backend functionalities to support user authentication, product management, cart management, and order processing.
+
+Key Contributions:
+
+Backend Development: Leveraged Spring Boot framework to create RESTful APIs for handling various E-commerce operations, ensuring efficient communication between the frontend and backend systems.
+Database Integration: Utilized Hibernate ORM for object-relational mapping and PostgreSQL as the backend database, ensuring data persistence and scalability for the platform.
+User Authentication: Implemented secure user authentication and authorization using Spring Security, enabling users to create accounts, log in securely, and access personalized features.
+Product Management: Developed features for managing product catalog, including CRUD operations for adding, editing, and deleting products, as well as implementing search and filter functionalities for enhanced user experience.
+Cart Management: Engineered a flexible shopping cart system to enable users to add products, update quantities, and remove items, with real-time synchronization across sessions.
+Order Processing: Designed an order processing system to handle checkout workflows, including order placement, payment processing integration, and order status tracking.
+Technologies Used:
+
+Java, Spring Boot, Spring Security, Hibernate, PostgreSQL, RESTful APIs
+
+Achievements:
+
+Successfully delivered a fully functional E-commerce platform meeting project requirements within the specified timeline.
+Collaborated effectively with frontend developers to integrate backend services seamlessly into the overall application architecture.
